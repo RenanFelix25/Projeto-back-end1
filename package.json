@@ -1,0 +1,21 @@
+{
+  "nome" : " projeto-backend " ,
+  "versão" : " 1.0.0 " ,
+  "descrição" : " " ,
+  "main" : " index.js " ,
+  "scripts" : {
+    "start" : " nodemon index.js " ,
+    "test" : " echo \" Erro: nenhum teste especificado \ " && exit 1 "
+  },
+  "devDependencies" : {
+    "nodemon" : " ^ 2.0.7 "
+  },
+  "autor" : " " ,
+  "licença" : " ISC " ,
+  "dependências" : {
+    "body-parser" : " ^ 1.19.0 " ,
+    "consignar" : " ^ 0.1.6 " ,
+    "expresso" : " ^ 4.17.1 " ,
+    "sqlite3" : " ^ 5.0.2 "
+  }
+}
